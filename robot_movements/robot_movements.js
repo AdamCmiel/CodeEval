@@ -1,5 +1,5 @@
-var x_max = 6;
-var y_max = 6;
+var x_max = 4;
+var y_max = 4;
 
 var unique_paths = [];
 
